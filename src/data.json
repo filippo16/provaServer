@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "nome": "San Siro",
+        "latitudine": 45.4789,
+        "longitudine": 9.1234
+    },
+    {
+        "id": 2,
+        "nome": "Olimpico",
+        "latitudine": 41.9333,
+        "longitudine": 12.4547
+    },
+    {
+        "id": 3,
+        "nome": "Allianz Stadium",
+        "latitudine": 45.1094,
+        "longitudine": 7.6414
+    },
+    {
+        "id": 4,
+        "nome": "Artemio Franchi",
+        "latitudine": 43.7808,
+        "longitudine": 11.2827
+    },
+    {
+        "id": 5,
+        "nome": "Meazza",
+        "latitudine": 45.4789,
+        "longitudine": 9.1234
+    },
+    {
+        "id": 6,
+        "nome": "Stadio Olimpico di Torino",
+        "latitudine": 45.0353,
+        "longitudine": 7.6186
+    },
+    {
+        "id": 7,
+        "nome": "Renato Dall'Ara",
+        "latitudine": 44.5044,
+        "longitudine": 11.3522
+    },
+    {
+        "id": 8,
+        "nome": "Luigi Ferraris",
+        "latitudine": 44.4125,
+        "longitudine": 8.9381
+    },
+    {
+        "id": 9,
+        "nome": "Stadio San Paolo",
+        "latitudine": 40.827,
+        "longitudine": 14.1936
+    },
+    {
+        "id": 10,
+        "nome": "Stadio Friuli",
+        "latitudine": 46.0714,
+        "longitudine": 13.2342
+    }
+]
